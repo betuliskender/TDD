@@ -19,7 +19,7 @@
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
         <maven.compiler.target>8</maven.compiler.target>
-        <remote.server>http://138.68.89.47/manager/text</remote.server>
+        <remote.server>http://138.68.89.47:8081/manager/text</remote.server>
     </properties>
 
     <build>
